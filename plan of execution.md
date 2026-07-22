@@ -482,3 +482,14 @@ frontend/
 * ✅ README with setup instructions
 * ✅ Screenshots (optional but recommended)
 
+---
+
+## Feedback
+
+Thank you for reviewing my submission.
+
+I welcome any feedback on the solution, including the product thinking, system design, database modeling, API design, code structure, testing approach, or any improvements you believe could make the solution more scalable or maintainable.
+
+Your suggestions and advice would be greatly appreciated and will help me continue improving as a software engineer.
+
+Thank you for your time and consideration.
