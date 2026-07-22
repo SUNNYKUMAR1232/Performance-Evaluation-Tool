@@ -1,4 +1,4 @@
-# Performance Evaluation Tool – Product Design Report
+# Performance Evaluation Tool – Product Design 
 
 ---
 
@@ -851,6 +851,12 @@ Apr
 
 ---
 
-## Conclusion
+## Feedback
 
-This design supports a **multi-tenant SaaS performance evaluation platform** with a normalized database model, clear organizational hierarchy, monthly review cycles, role-based access, and historical performance tracking. It is flexible enough to handle different organizational structures—from a flat company where a Founder reviews everyone directly to multi-level reporting chains with HR oversight—while remaining scalable for future enhancements such as 360° feedback, goal management, and advanced analytics.
+Thank you for reviewing my submission.
+
+I welcome any feedback on the solution, including the product thinking, system design, database modeling, API design, code structure, testing approach, or any improvements you believe could make the solution more scalable or maintainable.
+
+Your suggestions and advice would be greatly appreciated and will help me continue improving as a software engineer.
+
+Thank you for your time and consideration.
